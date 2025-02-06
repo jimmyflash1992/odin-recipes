@@ -1,0 +1,17 @@
+* {
+    background-color: bisque;
+    line-height: 1.5;
+    text-align: center;
+    
+}
+
+img {
+
+    border-radius: 5em;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+}
